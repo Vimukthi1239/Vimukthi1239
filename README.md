@@ -31,6 +31,10 @@ def say_hi(self):
 me = DataScientist()
 me.say_hi()
 
+**Output:**
+```bash
+Thanks for dropping by! Let's build something amazing together.
+</details>
 
 ---
 
