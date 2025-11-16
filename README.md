@@ -18,6 +18,7 @@
 ## 🚀 About Me
 <details open>
 <summary><b>💻 View My Code Profile</b></summary>
+```python
 class DataScientist:
     def __init__(self):
         self.name = "Vimukthi Malshan Nawarathna"
