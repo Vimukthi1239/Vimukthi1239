@@ -17,34 +17,7 @@
 
 ## 🚀 About Me
 
-</details>
 
----
-
-## 🔭 Current Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏨 Hotel Analytics Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/Vimukthi1239/hotel-analytics-dashboard" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="project link"/>
-        </a>
-      </p>
-      <p>Building an advanced analytics dashboard for hotel management with real-time insights and data visualization.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 Hotel Management System with AI</h3>
-      <p align="center">
-        <a href="https://github.com/eshan2002/Hotel-Management-System-With-AI" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-Collaborate-green?style=for-the-badge&logo=github" alt="project link"/>
-        </a>
-      </p>
-      <p>Collaborating on an AI-powered hotel management system to revolutionize hospitality operations.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
