@@ -16,23 +16,36 @@
 ---
 
 ## 🚀 About Me
-<body>
-    <pre>
-        <code class="language-python">
-class DataScientist:
-    def __init__(self):
-        self.name = "Vimukthi Malshan Nawarathna"
-        self.role = "Data Science Student"
+<details open>
+  <summary><b>💻 View My Code Profile</b></summary>
+  <br>
+  
+  <pre lang="javascript">
+class DataScientist {
+    constructor() {
+        this.name = "Vimukthi Malshan Nawarathna";
+        this.role = "Data Science Student";
+        this.location = "Sri Lanka 🇱🇰";
+        this.education = "BSc (Hons) Data Science";
+        this.interests = ["Machine Learning", "Data Analytics", "Web Development"];
+    }
     
-    def say_hi(self):
-        print("Thanks for dropping by!")
+    sayHi() {
+        console.log("Thanks for dropping by! Let's build something amazing together.");
+    }
+}
 
-me = DataScientist()
-me.say_hi()
-        </code>
-    </pre>
-</body>
-
+const me = new DataScientist();
+me.sayHi();
+  </pre>
+  
+  <p><strong>Output:</strong></p>
+  
+  <pre>
+Thanks for dropping by! Let's build something amazing together.
+  </pre>
+  
+</details>
 ---
 
 ## 💻 Tech Stack
