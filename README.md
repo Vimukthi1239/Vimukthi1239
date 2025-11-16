@@ -16,28 +16,22 @@
 ---
 
 ## 🚀 About Me
-<details open>
-  <summary><b>💻 View My Code Profile</b></summary>
-  <br>
-  
-  <pre><code>class DataScientist:
+<body>
+    <pre>
+        <code class="language-python">
+class DataScientist:
     def __init__(self):
         self.name = "Vimukthi Malshan Nawarathna"
         self.role = "Data Science Student"
-        self.location = "Sri Lanka 🇱🇰"
-        self.education = "BSc (Hons) Data Science"
-        self.interests = ["Machine Learning", "Data Analytics", "Web Development"]
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+        print("Thanks for dropping by!")
 
 me = DataScientist()
-me.say_hi()</code></pre>
-  
-  <p><strong>Output:</strong></p>
-  <pre>Thanks for dropping by! Let's build something amazing together.</pre
-  
-</details>
+me.say_hi()
+        </code>
+    </pre>
+</body>
 
 ---
 
