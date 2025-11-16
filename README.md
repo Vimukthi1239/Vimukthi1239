@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Vimukthi Malshan Nawarathna
 
-### 🎓 Final Year Data Science Student | 🇱🇰 From Sri Lanka
+### 🎓 Final Year Data Science Student | From Sri Lanka
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=600&lines=Data+Science+Enthusiast;Hotel+Analytics+Developer;AI+%26+Machine+Learning+Explorer;Full+Stack+Developer" alt="Typing SVG" />
 
