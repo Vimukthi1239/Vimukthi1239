@@ -16,36 +16,31 @@
 ---
 
 ## 🚀 About Me
-<details open>
-  <summary><b>💻 View My Code Profile</b></summary>
-  <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=malindu200111&label=Profile%20views&color=0e75b6&style=flat" alt="malindu200111" /> </p>
+<table  align="center">
+<tr border="none">
+<td width="50%" align="left">
   
-  <pre lang="javascript">
-class DataScientist {
-    constructor() {
-        this.name = "Vimukthi Malshan Nawarathna";
-        this.role = "Data Science Student";
-        this.location = "Sri Lanka 🇱🇰";
-        this.education = "BSc (Hons) Data Science";
-        this.interests = ["Machine Learning", "Data Analytics", "Web Development"];
-    }
-    
-    sayHi() {
-        console.log("Thanks for dropping by! Let's build something amazing together.");
-    }
-}
 
-const me = new DataScientist();
-me.sayHi();
-  </pre>
+- 🌱 I’m currently learning **Frontend (HTML, CSS, JS, R)**
+
+- 🧑‍🎓 I’m **an Undergraduate at SLTC**
+
+- 💬 Ask me about **Data analysis & ML engineer**
+
+- 📫 How to reach me **2000malshan@gmail.com**
+
+- ⚡ Fun fact **call me as Mala**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://github.com/Malindu200111/Malindu200111/blob/main/cartoon-man-wearing-glasses.jpg">
+
   
-  <p><strong>Output:</strong></p>
-  
-  <pre>
-Thanks for dropping by! Let's build something amazing together.
-  </pre>
-  
-</details>
+  </td>
+</tr>
+</table>
 ---
 
 ## 💻 Tech Stack
